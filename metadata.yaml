@@ -1,0 +1,78 @@
+_repo: Three-Men-in-a-Boat_308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: "Three Men in a Boat (To Say Nothing of the Dog), published in 1889,\
+  \ is a humorous account by English writer Jerome K. Jerome of a two-week boating\
+  \ holiday on the Thames from Kingston upon Thames to Oxford and back to Kingston.\
+  \ The book was initially intended to be a serious travel guide, with accounts of\
+  \ local history along the route, but the humorous elements took over to the point\
+  \ where the serious and somewhat sentimental passages seem a distraction to the\
+  \ comic novel. One of the most praised things about Three Men in a Boat is how undated\
+  \ it appears to modern readers – the jokes seem fresh and witty even today.\nThe\
+  \ three men are based on Jerome himself (the narrator Jerome K. Jerome) and two\
+  \ real-life friends, George Wingrave (who would become a senior manager at Barclays\
+  \ Bank) and Carl Hentschel (the founder of a London printing business, called Harris\
+  \ in the book), with whom Jerome often took boating trips. The dog, Montmorency,\
+  \ is entirely fictional but, \"as Jerome admits, developed out of that area of inner\
+  \ consciousness which, in all Englishmen, contains an element of the dog.\" The\
+  \ trip is a typical boating holiday of the time in a Thames camping skiff. This\
+  \ was just after commercial boat traffic on the Upper Thames had died out, replaced\
+  \ by the 1880s craze for boating as a leisure activity.\nFollowing the overwhelming\
+  \ success of Three Men in a Boat, Jerome later published a sequel, about a cycling\
+  \ tour in Germany, titled Three Men on the Bummel (also known as Three Men on Wheels,\
+  \ 1900).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Humor
+- Best Books Ever Listings
+gutenberg_issued: '1995-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '308'
+  wikidata: Q955910
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thames River (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Boats and boating -- England -- Thames River -- Fiction'
+- !lcsh 'Young men -- Travel -- England -- Thames River -- Fiction'
+- GITenberg
+title: Three Men in a Boat
+url: http://www.gutenberg.org/ebooks/308
+wikipedia:
+- https://sv.wikisource.org/wiki/Tre_m%C3%A4n_i_en_b%C3%A5t
+- https://pl.wikisource.org/wiki/Trzej_ludzie_w_jednej_%C5%82odzi
+- https://en.wikisource.org/wiki/Three_Men_in_a_Boat
+- https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%94_%D1%83_%D1%87%D0%BE%D0%B2%D0%BD%D1%96
+- https://uk.wikiquote.org/wiki/%D0%A2%D1%80%D0%BE%D1%94_%D0%B2_%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D1%87%D0%BE%D0%B2%D0%BD%D1%96
+- https://az.wikipedia.org/wiki/Qay%C4%B1qda_%C3%BC%C3%A7_ki%C5%9Fi
+- https://fr.wikisource.org/wiki/Trois_Hommes_dans_un_bateau
+- https://sv.wikipedia.org/wiki/Tre_m%C3%A4n_i_en_b%C3%A5t
+- https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%88%E3%81%AE%E4%B8%89%E4%BA%BA%E7%94%B7
+- https://es.wikipedia.org/wiki/Tres_hombres_en_un_bote
+- https://en.wikipedia.org/wiki/Three_Men_in_a_Boat
+- https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B5_%D0%B2_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B5,_%D0%BD%D0%B5_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%8F_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8
+- https://ro.wikipedia.org/wiki/Trei_%C3%AEntr-o_barc%C4%83
+- https://fr.wikipedia.org/wiki/Trois_hommes_dans_un_bateau
+- https://pl.wikipedia.org/wiki/Trzech_pan%C3%B3w_w_%C5%82%C3%B3dce_(nie_licz%C4%85c_psa)
+- https://ru.wikiquote.org/wiki/%D0%A2%D1%80%D0%BE%D0%B5_%D0%B2_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B5,_%D0%BD%D0%B5_%D1%81%D1%87%D0%B8%D1%82%D0%B0%D1%8F_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8
+- https://ar.wikipedia.org/wiki/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9_%D8%B1%D8%AC%D8%A7%D9%84_%D9%81%D9%8A_%D9%82%D8%A7%D8%B1%D8%A8
+- https://nl.wikipedia.org/wiki/Three_Men_in_a_Boat
+- https://de.wikipedia.org/wiki/Drei_Mann_in_einem_Boot_(Roman)
+- https://it.wikipedia.org/wiki/Tre_uomini_in_barca
+- https://no.wikipedia.org/wiki/Three_Men_in_a_Boat
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:T%C5%99i_mu%C5%BEi_ve_%C4%8Dlunu
+- https://he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%95%D7%A9%D7%94_%D7%91%D7%A1%D7%99%D7%A8%D7%94_%D7%90%D7%97%D7%AA_(%D7%9E%D7%9C%D7%91%D7%93_%D7%94%D7%9B%D7%9C%D7%91)
