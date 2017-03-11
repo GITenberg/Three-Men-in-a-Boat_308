@@ -1,5 +1,8 @@
 _repo: Three-Men-in-a-Boat_308
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -29,6 +32,8 @@ description: "Three Men in a Boat (To Say Nothing of the Dog), published in 1889
   \ success of Three Men in a Boat, Jerome later published a sequel, about a cycling\
   \ tour in Germany, titled Three Men on the Bummel (also known as Three Men on Wheels,\
   \ 1900).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/308#Three-Men-in-a-Boat
 gutenberg_bookshelf:
 - Humor
 - Best Books Ever Listings
